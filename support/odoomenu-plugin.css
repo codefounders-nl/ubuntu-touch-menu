@@ -1,0 +1,4 @@
+header#graph_header {
+	z-index: 1000;
+	position: relative;
+}
